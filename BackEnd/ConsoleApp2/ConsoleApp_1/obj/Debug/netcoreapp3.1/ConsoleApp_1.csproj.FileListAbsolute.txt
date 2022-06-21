@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\AhlusSunnahCalgaryBlog\BackEnd\ConsoleApp2\ConsoleApp_1\bin\Debug\netcoreapp3.1\ConsoleApp_1.exe
+C:\Users\Owner\source\repos\AhlusSunnahCalgaryBlog\BackEnd\ConsoleApp2\ConsoleApp_1\bin\Debug\netcoreapp3.1\ConsoleApp_1.deps.json
+C:\Users\Owner\source\repos\AhlusSunnahCalgaryBlog\BackEnd\ConsoleApp2\ConsoleApp_1\bin\Debug\netcoreapp3.1\ConsoleApp_1.runtimeconfig.json
+C:\Users\Owner\source\repos\AhlusSunnahCalgaryBlog\BackEnd\ConsoleApp2\ConsoleApp_1\bin\Debug\netcoreapp3.1\ConsoleApp_1.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\AhlusSunnahCalgaryBlog\BackEnd\ConsoleApp2\ConsoleApp_1\bin\Debug\netcoreapp3.1\ConsoleApp_1.dll
+C:\Users\Owner\source\repos\AhlusSunnahCalgaryBlog\BackEnd\ConsoleApp2\ConsoleApp_1\bin\Debug\netcoreapp3.1\ConsoleApp_1.pdb
+C:\Users\Owner\source\repos\AhlusSunnahCalgaryBlog\BackEnd\ConsoleApp2\ConsoleApp_1\obj\Debug\netcoreapp3.1\ConsoleApp_1.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\AhlusSunnahCalgaryBlog\BackEnd\ConsoleApp2\ConsoleApp_1\obj\Debug\netcoreapp3.1\ConsoleApp_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\AhlusSunnahCalgaryBlog\BackEnd\ConsoleApp2\ConsoleApp_1\obj\Debug\netcoreapp3.1\ConsoleApp_1.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\AhlusSunnahCalgaryBlog\BackEnd\ConsoleApp2\ConsoleApp_1\obj\Debug\netcoreapp3.1\ConsoleApp_1.AssemblyInfo.cs
+C:\Users\Owner\source\repos\AhlusSunnahCalgaryBlog\BackEnd\ConsoleApp2\ConsoleApp_1\obj\Debug\netcoreapp3.1\ConsoleApp_1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\AhlusSunnahCalgaryBlog\BackEnd\ConsoleApp2\ConsoleApp_1\obj\Debug\netcoreapp3.1\ConsoleApp_1.dll
+C:\Users\Owner\source\repos\AhlusSunnahCalgaryBlog\BackEnd\ConsoleApp2\ConsoleApp_1\obj\Debug\netcoreapp3.1\ConsoleApp_1.pdb
+C:\Users\Owner\source\repos\AhlusSunnahCalgaryBlog\BackEnd\ConsoleApp2\ConsoleApp_1\obj\Debug\netcoreapp3.1\ConsoleApp_1.genruntimeconfig.cache
